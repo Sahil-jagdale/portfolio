@@ -143,7 +143,7 @@ export const DATA = {
     },
     {
       title: "Personal Portfolio",
-      href: "https://nishas-portfolio.vercel.app/",
+      href: "https://sahil-project-eta.vercel.app/",
       status: 'comeleted',
       description:
         "Developed a fully responsive personal portfolio using Next.js and Tailwind CSS. Designed to be mobile-friendly, the portfolio showcases projects, skills, and contact sections with clean UI and smooth user experience.",
